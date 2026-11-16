@@ -1,0 +1,11 @@
+# Archivos que genera la ejecución
+mlflow.db
+mlruns/
+runs/
+*.pth
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+.DS_Store
